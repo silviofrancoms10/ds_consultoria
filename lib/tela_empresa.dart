@@ -19,6 +19,7 @@ class _TelaEmpresaState extends State<TelaEmpresa> {
         child: Container(
           padding: const EdgeInsets.all(16),
           child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Row(
                 children: [

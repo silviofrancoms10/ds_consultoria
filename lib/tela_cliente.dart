@@ -19,6 +19,7 @@ class _TelaClienteState extends State<TelaCliente> {
         child: Container(
           padding: const EdgeInsets.all(16),
           child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Row(
                 children: [

@@ -19,6 +19,7 @@ class _TelaServicoState extends State<TelaServico> {
         child: Container(
           padding: const EdgeInsets.all(16),
           child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Row(
                 children: [
